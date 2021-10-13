@@ -1,4 +1,4 @@
-Projeto desenvolvido com a finalidade de aprendizado. Clone e repositório e use da melhor maneira que puder para agregar em seus conhecimentos. Obrigado!
+Projeto desenvolvido com a finalidade de aprendizado. Clone o repositório e use da melhor maneira que puder para agregar em seus conhecimentos. Obrigado!
 
 # Getting Started with Create React App
 
