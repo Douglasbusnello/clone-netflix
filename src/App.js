@@ -25,7 +25,6 @@ function App() {
       let choseInfo = await api.getMovieInfo(chose.id, 'tv');
       setEmphaisData(choseInfo);
     }
-
     loadAll();
   }, []);
 
